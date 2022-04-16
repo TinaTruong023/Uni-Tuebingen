@@ -1,0 +1,75 @@
+Klausur Themen
+
+Abbildungen
+> Nervenzelle
+> Verlauf eines Aktionspotentials
+> Synapse
+> Auge
+> Ohr
+> Muskel
+> Ontogenese, Gastrulation, Neurulation: Entwicklung der Neuralplatte
+> Gehirnareale: 5 Gehirnabschnitte
+
+
+Erklärungen
+> Nervenzelle
+  > Vorteil der Myelinisierung: Verschiedene Erregungsleitungen -> passiv,aktiv, saltatorisch
+  > Funktion der Natrium-Kalium Pumpe
+  > Besonderheit des spannungsabhängigen Na+-Kanals
+
+> Synapse
+	> Neurotransmitter: Funktionsweise, Unterschiede Ionotrop - Metabotrop
+	> Quantisierung der synaptischen Übertragung
+	> Dendritische Summation
+	> LTP
+	> Elektrische Synapsen
+
+> wichtigste Hirnareale + Zuweisung in Hirnabschnitte
+
+> Auge
+	> Ablauf in Photrezeptor: Phototransduktion, Dunkelstrom
+	> Zapfen und Stäbchen
+	> Ablauf der visuellen Verarbeitung
+	> Akkomodation
+	> Evolution des Auges
+	> Funktiosweise rezeptiver Felder -> Gegenfarbzellen
+	> Magno-&Parvozelluläre Zellen
+	> Simple- und Complexzellen
+	> Retinotopie
+
+> Geruch und Geschmack
+  > Geschmacks-Transduktion?
+  > Projektion der Geruchs-Rezeptorzellen
+
+> Ohr
+  > Tonotopie
+  > Funktionsweise Vestibularorgan
+  > Weg der Schallwelle
+  > Funktion der Basilarmembran
+  > Impedanzwandlung
+  > Transduktion der Inneren Haarsinneszellen
+
+> Muskel
+	> Aufbau Sarkomer und Gleitfilamenttheorie
+	> Querbrückenzyklus
+	> Motorische Endplatte
+	> Muskelspindeln
+	> Unterschied Glatte-/Quergestreifte-Muskulatur
+	> Reflexe	
+	> Motorsteuerung
+	> Agonisten und Antagonisten
+	
+> Verhalten
+  > Lernarten :Habituation, Klassische + operante Konditionierung
+  > Gedächtnis
+  > Circadiane Rhytmen 
+> Evolution
+	> vorallem Begriffe erklären: Homologie, Analogie, Taxonomie, Slektion, Mutation
+
+Aufbau Klausur:
+> zeichnen
+> beschriften
+> definieren
+> Prozess erklären
+> Begriffe erläutern
+
